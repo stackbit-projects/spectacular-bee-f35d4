@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Stackbit onAzure Static Web Apps
+    title: "Stackbit on\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Azure Static Web Apps"
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
